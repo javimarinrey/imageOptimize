@@ -1,3 +1,5 @@
+# Streaming image manipulations with Node.js
+
 - Download ImageMagick (https://www.imagemagick.org/download/)
 - Set PATH environment ImageMagick
 - Install dependecies:
