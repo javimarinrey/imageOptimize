@@ -5,3 +5,5 @@
 npm install request
 npm install gm
 ```
+
+http://aheckmann.github.io/gm/docs.html
