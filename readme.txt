@@ -2,4 +2,4 @@
 - path environment ImageMagick
 
 npm install request
-npm install gm# imageOptimize
+npm install gm
