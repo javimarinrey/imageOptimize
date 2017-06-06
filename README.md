@@ -7,3 +7,5 @@ npm install gm
 ```
 
 http://aheckmann.github.io/gm/docs.html
+
+https://www.npmjs.com/package/gm
